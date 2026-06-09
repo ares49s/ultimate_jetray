@@ -1,0 +1,12 @@
+{
+  "hero": {
+    "appid": "3681010",
+    "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/nioh-3-review-header.jpg?w=1600&h=900&fit=crop"
+  },
+  "games": [2868840, 1203620, 814380, 1903340, 1151340, 2651280, 3949040, 3527290, 3008130, 2947440, 3164500, 2827200],
+  "not_ready":
+  [
+    1808500,
+    3606480
+  ]
+}
