@@ -1,29 +1,22 @@
 {
-  "12200": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/Bully.7z",
-  "220240": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry3.7z",
-  "233270": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryBloodDragon.7z",
-  "298110": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry4.7z",
-  "371660": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryPrimal.7z",
+  "12200": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/Bully.7z",
+  "220240": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/FarCry3.7z",
+  "233270": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/FarCryBloodDragon.7z",
+  "298110": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/FarCry4.7z",
+  "371660": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/FarCryPrimal.7z",
   "552520": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCry5.7z",
   "939960": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCryNewDawn.7z",
   "2369390": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCry6.7z",
-  "33230": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACII.7z",
-  "48190": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACBrotherhood.7z",
-  "201870": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACRevelations.7z",
-  "208480": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACIII.7z",
-  "911400": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACIIIre.7z",
-  "242050": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACBlackFlag.7z",
+  "33230": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACII.7z",
+  "48190": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACBrotherhood.7z",
+  "201870": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACRevelations.7z",
+  "208480": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACIII.7z",
+  "911400": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACIIIre.7z",
+  "242050": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/ACBlackFlag.7z",
   "812140": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/ACOdyssey.7z",
   "2208920": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/ACValhalla.7z",
   "2050650": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/RE4.7z",
-  "1113000": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/Persona4Golden.7z",
-  "1382330": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/Persona5Strikers.7z",
+  "1113000": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/Persona4Golden.7z",
+  "1382330": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/bypass_path/Persona5Strikers.7z",
   "1687950": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/Persona5Royal.7z"
-
-  // "990080": {
-  //   "downloadUrls": [
-  //     "https://.../HogwartsLegacy.7z.001",
-  //     "https://.../HogwartsLegacy.7z.002"
-  //   ]
-  // }
 }
